@@ -55,9 +55,3 @@ When I’m not coding, I enjoy reading mystery novels, solving puzzles, and desi
 **Languages:** Python, C++, SQL, JavaScript, TypeScript  
 **Frameworks:** Django, React, Flask  
 **Tools & Platforms:** Git, Docker, AWS
-
----
-
-## 🏆 GitHub Stats
-![Carly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlyathomas&show_icons=true&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlyathomas&layout=compact)
